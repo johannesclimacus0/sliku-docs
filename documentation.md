@@ -1,0 +1,38 @@
+- ## Начало работы
+    - [Знакомство со Sliku](/docs/{{version}}/introduction)
+    - [Установка](/docs/{{version}}/installation)
+    - [Конфигурация](/docs/{{version}}/configuration)
+    - [Структура проекта](/docs/{{version}}/structure)
+- ## Архитектура
+    - [Жизненный цикл запроса](/docs/{{version}}/lifecycle)
+    - [Контейнер зависимостей](/docs/{{version}}/container)
+- ## HTTP
+    - [Маршрутизация](/docs/{{version}}/routing)
+    - [Middleware](/docs/{{version}}/middleware)
+    - [Контроллеры](/docs/{{version}}/controllers)
+    - [Валидация](/docs/{{version}}/validation)
+    - [Обработка ошибок](/docs/{{version}}/errors)
+- ## Данные
+    - [База данных и миграции](/docs/{{version}}/database)
+    - [Кэш](/docs/{{version}}/cache)
+    - [Файловое хранилище](/docs/{{version}}/storage)
+- ## Безопасность
+    - [Аутентификация](/docs/{{version}}/authentication)
+    - [Авторизация](/docs/{{version}}/authorization)
+- ## Фоновая работа
+    - [События](/docs/{{version}}/events)
+    - [Очереди](/docs/{{version}}/queues)
+    - [Планировщик](/docs/{{version}}/scheduling)
+- ## Интеграции
+    - [Почта](/docs/{{version}}/mail)
+    - [Уведомления](/docs/{{version}}/notifications)
+    - [HTTP-клиент](/docs/{{version}}/http-client)
+    - [Вебхуки](/docs/{{version}}/webhooks)
+    - [WebSocket и трансляция](/docs/{{version}}/broadcasting)
+- ## Инструменты
+    - [Консоль и генераторы](/docs/{{version}}/console)
+    - [Терминальная панель](/docs/{{version}}/tui)
+    - [Фронтенд](/docs/{{version}}/frontend)
+    - [Тестирование](/docs/{{version}}/testing)
+    - [Логи](/docs/{{version}}/logging)
+    - [Диагностика проблем](/docs/{{version}}/troubleshooting)
